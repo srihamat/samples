@@ -4,7 +4,7 @@ A Flutter sample app that shows a state management approach using the [Provider]
 This is the app discussed in the [Simple app state management][simple] section of
 [flutter.dev][].
 
-![An animated gif of the app in action](https://github.com/srihamat/samples/tree/master/provider_shopper/images/provider_shopper.gif)
+![An animated gif of the app in action](images/provider_shopper.gif)
 
 [Provider]: https://pub.dev/packages/provider
 [simple]: https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
